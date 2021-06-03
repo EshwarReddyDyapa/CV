@@ -1,0 +1,44 @@
+body
+{
+    background-color: #fff5eb;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+hr
+{
+    width: 10%;
+    border-style: dotted none none;
+    border-color: #81cbda;
+    border-width: 5px;
+}
+
+h1
+{
+    color: #364f6b;
+    font-family: Trebuchet MS;
+}
+
+em
+{
+    color: #364f6b;
+}
+
+h2
+{
+    color: #39a6a3;
+}
+
+h3
+{
+    color: #39a6a3;
+}
+
+strong
+{
+    color: #498684;
+}
+
+a
+{
+    color: #498684;
+}
